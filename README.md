@@ -347,6 +347,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 - <img src="https://alternativeassetliteracy.com/assets/images/logo.webp" height="14"/> [Alternative Asset Literacy](https://alternativeassetliteracy.com/mcp) - Research-backed financial education MCP with 13 tools: 351-term glossary search across alternative assets, DeFi, ESG, behavioral economics, art, and gender lens investing — plus module discovery, audience routing, geographic HNW intelligence, and advisor gift bundles.
+- <img src="https://untitledfinancial.com/favicon.ico" height="14"/> [DPX Protocol](https://github.com/untitledfinancial/dpx-mcp) - Compliance-grade cross-border stablecoin settlement rail. 56 tools: settlement execution, ESG counterparty scoring (SFDR/MiCA), AML + sanctions + PEP screening, FATF R.16 attestation, GLEIF UBO chain, macro stability oracle, FX corridor risk, Mercury banking, Ramp, and agent-to-agent payments via x402 on Base mainnet.
 
 <br />
 
